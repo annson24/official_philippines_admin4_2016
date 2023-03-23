@@ -16,4 +16,15 @@ Methodology:	Census
 Caveats / Comments	:
 Thanks to the support of UN OCHA, the SIIEM project, PSA, NAMRIA, DOST/NOAH and DSWD, the original layer has been cleaned and adjusted to match the data specification set by the NDRRMC Information Management Technical Working Group (IM-TWG) as well as NAMRIA's 1:250'000 indicative coastline.
 
-Purpose: Disaster Risk Reduction and Management (DRRM) Maintenance Frequency: Annually Keywords: Barangays, Municipalities/Cities, Provinces, Regions, Philippines, boundaries Keywords Region: Philippines Restrictions Other: Acknowledge PSA and NAMRIA as the source Spatial Representation Type: polygon Language: English Topic Category: administrative boundaries Temporal Extent (Start/End): 04.13.2016-until further notice Supplemental Information: To facilitate data compatibility among sources, the original PSGC code has been modified by adding a "PH" in the attribute table of the GIS layer Distribution URL: TBD Data Quality Statement: The layer is complete and consistent as per the April 2016 release of the PSGC but the boundaries are to be considered as indicative.
+Purpose: Disaster Risk Reduction and Management (DRRM) Maintenance
+Frequency: Annually
+Keywords: Barangays, Municipalities/Cities, Provinces, Regions, Philippines, boundaries
+Keywords Region: Philippines Restrictions
+Other: Acknowledge PSA and NAMRIA as the source Spatial Representation
+Type: polygon
+Language: English
+Topic Category: administrative boundaries
+Temporal Extent (Start/End): 04.13.2016-until further notice
+Supplemental Information: To facilitate data compatibility among sources, the original PSGC code has been modified by adding a "PH" in the attribute table of the GIS layer Distribution
+URL: TBD
+Data Quality Statement: The layer is complete and consistent as per the April 2016 release of the PSGC but the boundaries are to be considered as indicative.
